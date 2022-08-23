@@ -35,7 +35,7 @@ print()
 input("Do you just want to populate your Github account in order\n"
       "to show off your coding skills for a job application? [y/n]: ")
 print()
-# Waste some time before coming to the conclusion to use the   MIT license
+# Waste some time before coming to the conclusion to use the MIT license
 input("Just starting out, creating an easy application such as\n"
         "a simple calculator or minesweeper with a GUI? [y/n]: ")
 print()
